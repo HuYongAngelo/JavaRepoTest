@@ -6,7 +6,7 @@ public class ProvaGit {
         double i=0;
         
         while (true) {
-            System.out.println("Ehi, ciao! "+i);
+            System.out.println("Ehi, ciao! "+i+" patate");
             i++;
         }
     }
